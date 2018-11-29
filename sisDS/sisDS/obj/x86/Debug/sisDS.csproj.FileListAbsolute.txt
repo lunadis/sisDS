@@ -1,0 +1,34 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\bin\Debug\sisDS.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\bin\Debug\sisDS.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.Form1.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\sisDS\obj\x86\Debug\sisDS.Cadastro.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.exe
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Cadastro.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Form1.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\bin\Debug\sisDS.exe
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\bin\Debug\sisDS.pdb
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.pdb
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Principal.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addCurso.resources
+C:\Users\Aluno_2\Desktop\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addUnidade.resources
+G:\sisDS\sisDS\sisDS\bin\Debug\sisDS.exe
+G:\sisDS\sisDS\sisDS\bin\Debug\sisDS.pdb
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addAluno.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addCurso.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addUnidade.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Cadastro.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Form1.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Principal.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.Properties.Resources.resources
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.csproj.GenerateResource.cache
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.csproj.CoreCompileInputs.cache
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.exe
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.pdb
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.csprojAssemblyReference.cache
+G:\sisDS\sisDS\sisDS\obj\x86\Debug\sisDS.addProfg.resources
